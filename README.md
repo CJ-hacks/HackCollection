@@ -11,4 +11,4 @@ HOW TO USE
  Once you have found a hack you like, you are to double click it and drag it to your Bookmark Bar. once you are done, just go to said site and click the bookmark.
 
 
-CREDIT GOES TO hostedposted AND AgrTheDev
+CREDIT GOES TO hostedposted, AgrTheDev AND milantje200
