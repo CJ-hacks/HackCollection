@@ -18,3 +18,4 @@ And the gui is in launcher.js 2. Navigate to chrome://extensions 3. Click on a e
 
 Please use this only when you have permisson, I (cj-hacks) do not condone the use of this exploit for illegal purposes!
 (speech made by 3kh0)
+For some reason, it says edited last year. it means BEFORE 2023 not 12 months ago.
